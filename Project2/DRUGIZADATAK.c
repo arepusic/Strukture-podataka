@@ -11,7 +11,7 @@ typedef struct Osoba {
     struct Osoba* next;
 } Osoba;
 
-// dodaj na po etak
+// dodaj na pocetak
 void dodajNaPocetak(Osoba** head) {   //prima adresu pokaziva a na po etak liste
     Osoba* nova = (Osoba*)malloc(sizeof(Osoba)); //rezrvira novi element (u listi) u memoriji
     printf("Unesi ime: ");
@@ -33,7 +33,7 @@ void ispisiListu(Osoba* head) {
     }
     while (head) { //prolazi kroz sve
         printf("%s %s, %d\n", head->ime, head->prezime, head->godina_rodenja);
-        head = head->next; //mi e se na sljede i
+        head = head->next; //mice se na sljedeci
     }
 }
 
@@ -82,15 +82,15 @@ void obrisi(Osoba** head, const char* prezime) {
         return;
     }
 
-    if (!prev) *head = temp->next;  // bri e prvi element
+    if (!prev) *head = temp->next;  // brise prvi element
     else prev->next = temp->next;
 
     free(temp);
     printf("Obrisano.\n");
 }
 
-//dr i trenutni i prethodni element
-//kad ga na e prispoji pokaziva e
+//drzi trenutni i prethodni element
+//kad ga nade prispoji pokazivace
 
 
 
