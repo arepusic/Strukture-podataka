@@ -73,7 +73,7 @@ void obrisi(Osoba** head, const char* prezime) {
     Osoba* prev = NULL;
 
     while (temp && strcmp(temp->prezime, prezime) != 0) {
-        prev = temp;
+        prev = temp;   //prev je prethodni temp je trenutni el
         temp = temp->next;
     }
 
