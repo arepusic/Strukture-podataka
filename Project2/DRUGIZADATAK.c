@@ -12,7 +12,7 @@ typedef struct Osoba {
 } Osoba;
 
 // dodaj na pocetak
-void dodajNaPocetak(Osoba** head) {   //prima adresu pokaziva a na po etak liste
+void dodajNaPocetak(Osoba** head) {   //prima adresu pokazivaca na pocetak liste
     Osoba* nova = (Osoba*)malloc(sizeof(Osoba)); //rezrvira novi element (u listi) u memoriji
     printf("Unesi ime: ");
     scanf("%49s", nova->ime);
