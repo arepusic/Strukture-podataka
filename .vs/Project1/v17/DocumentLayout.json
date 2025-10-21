@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E22F77-220B-46A3-BC94-149759783FDA}|Project1\\Project1.vcxproj|C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\Project1\\PRVIZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77E22F77-220B-46A3-BC94-149759783FDA}|Project1\\Project1.vcxproj|solutionrelative:Project1\\PRVIZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E22F77-220B-46A3-BC94-149759783FDA}|Project1\\Project1.vcxproj|C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\Project1\\STUDENT.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77E22F77-220B-46A3-BC94-149759783FDA}|Project1\\Project1.vcxproj|solutionrelative:Project1\\STUDENT.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STUDENT.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\Project1\\STUDENT.txt",
+              "RelativeDocumentMoniker": "Project1\\STUDENT.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\Project1\\STUDENT.txt",
+              "RelativeToolTip": "Project1\\STUDENT.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-21T10:50:41.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PRVIZADATAK.c",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\Project1\\PRVIZADATAK.c",
+              "RelativeDocumentMoniker": "Project1\\PRVIZADATAK.c",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project1\\Project1\\PRVIZADATAK.c",
+              "RelativeToolTip": "Project1\\PRVIZADATAK.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-21T10:50:14.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
