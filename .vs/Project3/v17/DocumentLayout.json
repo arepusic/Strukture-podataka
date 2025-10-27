@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB7572C-00D7-48F1-BFCF-B5B881B76C1A}|Project3\\Project3.vcxproj|C:\\Users\\HP\\Desktop\\STRUKTURE\\Project3\\Project3\\TRECIZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BB7572C-00D7-48F1-BFCF-B5B881B76C1A}|Project3\\Project3.vcxproj|solutionrelative:Project3\\TRECIZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TRECIZADATAK.c",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project3\\Project3\\TRECIZADATAK.c",
+              "RelativeDocumentMoniker": "Project3\\TRECIZADATAK.c",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project3\\Project3\\TRECIZADATAK.c",
+              "RelativeToolTip": "Project3\\TRECIZADATAK.c",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAOYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-23T17:41:13.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
