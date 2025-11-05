@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0950116-69FE-443A-A143-7959C0A0071F}|Project5\\Project5.vcxproj|C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\Project5\\zad5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0950116-69FE-443A-A143-7959C0A0071F}|Project5\\Project5.vcxproj|solutionrelative:Project5\\zad5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0950116-69FE-443A-A143-7959C0A0071F}|Project5\\Project5.vcxproj|C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\Project5\\bzvz.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0950116-69FE-443A-A143-7959C0A0071F}|Project5\\Project5.vcxproj|solutionrelative:Project5\\bzvz.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad5.c",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\Project5\\zad5.c",
+              "RelativeDocumentMoniker": "Project5\\zad5.c",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\Project5\\zad5.c",
+              "RelativeToolTip": "Project5\\zad5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-05T18:27:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bzvz.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\Project5\\bzvz.txt",
+              "RelativeDocumentMoniker": "Project5\\bzvz.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project5\\Project5\\bzvz.txt",
+              "RelativeToolTip": "Project5\\bzvz.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-03T23:44:35.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
