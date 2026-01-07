@@ -1,0 +1,5 @@
+Inorder prije replace
+15 16 26 34 36 44 52 56 64 85 
+
+Inorder poslije replace
+16 0 402 337 44 0 136 0 273 0 
