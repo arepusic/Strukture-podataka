@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934476B2-8931-4605-B216-456DC6FA53CE}|Project11\\Project11.vcxproj|C:\\Users\\HP\\Desktop\\STRUKTURE\\Project11\\Project11\\zad11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{934476B2-8931-4605-B216-456DC6FA53CE}|Project11\\Project11.vcxproj|solutionrelative:Project11\\zad11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad11.c",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project11\\Project11\\zad11.c",
+              "RelativeDocumentMoniker": "Project11\\zad11.c",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\STRUKTURE\\Project11\\Project11\\zad11.c",
+              "RelativeToolTip": "Project11\\zad11.c",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAACsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-14T14:47:48.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
